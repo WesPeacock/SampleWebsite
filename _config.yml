@@ -1,7 +1,7 @@
 title: Sample DLS Website
-remote_theme: sil-dictionary-lexical-services/dls-theme
+remote_theme: WesPeacock/dls-theme
 color_scheme: rc
-github_repo_url: "https://https://github.com/WesPeacock/SampleWebsite/"
+github_repo_url: "https://github.com/WesPeacock/SampleWebsite/"
 
 # license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"
